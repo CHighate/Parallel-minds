@@ -1,2 +1,3 @@
-# Parallel-Minds
-Mind Licensing MVP – full-code version
+# Parallel Minds
+
+MVP starter for mind licensing platform.
